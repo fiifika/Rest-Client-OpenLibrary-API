@@ -1,2 +1,3 @@
 Tampilan LocalHost
-<img width="1919" height="897" alt="Screenshot 2025-10-18 024609" src="https://github.com/user-attachments/assets/e63ffa7d-f3db-47b6-9f77-c9d97d4a6623" />
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/40c03b1a-aae6-4186-8318-536d74bfd99d" />
+
